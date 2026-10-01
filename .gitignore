@@ -1,0 +1,6 @@
+# Datasets grandes
+0. data/fma_metadata/
+0. data/Músicas/*.csv
+
+# Outros CSVs de dados
+0. data/Filmes/*.csv
